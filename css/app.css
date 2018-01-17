@@ -1,0 +1,61 @@
+.os {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.circle {
+	text-align:center;
+	border:1px solid white;
+	border-radius:50%;
+	width:40px;
+	height:40px;
+	margin:0;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.bg-light {
+	box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.2);
+	font-family: 'Open Sans', sans-serif;
+}
+
+.btn-umai {
+	background: #be987c;
+	font-family: 'Open Sans', sans-serif;
+	color:white;
+	font-weight: bold;
+}
+
+.btn-umai.active {
+	background:#a6724b;
+}
+
+.divider {
+	height:40px;
+	width:1px;
+	background: #be987c;
+	display:inline-block;
+	position: absolute;
+	margin-top:2.25rem;
+}
+
+.date {
+  float: left;
+  padding: 0 1em;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.date-btn {
+	border-radius:50%;
+	width:50px;
+	height:50px;
+	background: transparent;
+	border:4px solid #be987c;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	color: #be987c;
+}
+
+.active {
+	background: #be987c;
+	color:white;
+}
